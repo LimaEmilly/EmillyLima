@@ -1,11 +1,10 @@
-<img align="right" Alt="octocat" src="https://raw.githubusercontent.com/LimaEmilly/Aula-2/8a4b90ac8f7216a5947d8031222033f718abd561/Atividade%20Aula%202/image/octocat-1721877503587.png?token=BIP3SHGROKFSLHSJKDJ6NFLGUHBZY" width="300" height="300" float="right"/>
 
 # Oiê, me chamo  EmillyLima 
 ## Bem vindo ao meu perfil GitHub
 
 
 ### E ai, Devs...
-Tenho 21 anos, moro em Sapiranga - Rs, adoro jogos, filmes e séries. Sou apaixonada por animais (menções honrosas para o Tonyzão, meu cachorro). Sou iniciante no universo da programação, mas estou amando esse mundo de códigos.
+Tenho 21 anos, moro em Sapiranga - Rs, adoro jogos, filmes e séries. Sou apaixonada por animais (menções honrosas para o Tonyzão, meu cachorro 😍). Sou iniciante no universo da programação, mas estou amando esse mundo de códigos.
 
 <img aligh="midder" src="https://64.media.tumblr.com/tumblr_m3m8kk6k7l1qe8a0fo1_500.gifv">
 
@@ -13,7 +12,7 @@ Tenho 21 anos, moro em Sapiranga - Rs, adoro jogos, filmes e séries. Sou apaixo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-Faço parte do time de alunos da Growdev, cursando Web Full Stack
+🖥️ Faço parte do time de alunos da Growdev, cursando Web Full Stack
 
  ## Vou Aprender 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> 
